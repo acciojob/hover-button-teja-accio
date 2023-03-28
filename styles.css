@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+#btn{
+	background-color:black;
+	font-colour:white;
+	border-radius:5px;
+}
+#btn:hocer{
+	background-color:yellow;
+	font-color:black;
+	border-radius:30px;
+	
+}
